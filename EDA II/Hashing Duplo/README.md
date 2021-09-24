@@ -14,7 +14,7 @@ Implementação de inserção, consulta e remoçao de registros em arquivo biná
  Para executar: ./main
 
 # Uso:
- - inserir registro: deve-se inserir quatro linhas, na primeira deve conter o caractere 'i', a segunda a chave do registro (inteiro), a terceira uma sequencia de 20 caracteres indicando o nome e na quarta linha deve conter a idade.
+ - inserir registro: deve-se inserir quatro linhas, na primeira deve conter o caractere 'i', na segunda a chave do registro (inteiro), na terceira uma sequencia de 20 caracteres indicando o nome e na quarta linha deve conter a idade.
 
  - consultar registro: deve-se inserir duas linhas, na primeira deve conter o caractere 'c' e, na segunda a chave do registro que se quer consultar.
 
@@ -22,4 +22,4 @@ Implementação de inserção, consulta e remoçao de registros em arquivo biná
 
  - imprimir arquivo: deve-se inserir uma linha contendo apenas o caractere 'p'.
 
- - consultar media de acessos a registros do arquivo: deve-se inserir uma linha contendo apenas o caractere 'p'. Esse comando imprime duas linhas, na primeira indicando a media acessos a registros por consulta com sucesso e na segunda a media de acessos a registro por consulta sem sucesso, i.e, quando o registro procurado não se encontra no arquivo.
+ - consultar media de acessos a registros do arquivo: deve-se inserir uma linha contendo apenas o caractere 'm'. Esse comando imprime duas linhas, na primeira indicando a media acessos a registros por consulta com sucesso e na segunda a media de acessos a registro por consulta sem sucesso, i.e, quando o registro procurado não se encontra no arquivo.
